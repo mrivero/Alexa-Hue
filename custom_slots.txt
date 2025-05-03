@@ -68,8 +68,4 @@ ALERT_TYPE
 color loop
 long alert
 short alert
-<<<<<<< HEAD
 new short_VSCODE
-=======
-new short_GHWeb
->>>>>>> 22bd0540ca7066f97c23b9878d89d72e007de8cd
