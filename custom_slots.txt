@@ -68,4 +68,4 @@ ALERT_TYPE
 color loop
 long alert
 short alert
-new short_VSCODE2
+new short_GHWEB2
