@@ -68,3 +68,4 @@ ALERT_TYPE
 color loop
 long alert
 short alert
+new short_GHWeb
